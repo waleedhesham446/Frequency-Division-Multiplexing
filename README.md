@@ -13,7 +13,7 @@ Matlab script to simulate the communication preoccess of transmitting receiving 
 ![My Image](figures/Shift%202Hz.jpg)
 
 ### frequency_shift = 10 HZ
-![My Image](figures/Shift%2010Hz.jpg)
+![My Image](figures/Shift%2010HZ.jpg)
 
 ## Demodulation with Phase Shift
 
