@@ -1,6 +1,15 @@
 # Frequency-Division-Multiplexing
 Matlab script to simulate the communication preoccess of transmitting receiving signals via modulation and demodulation
 
+## Modulator
+Quadrature Amplitude Modulator
+1) 1st signal: modulated with frequency = 1/12 of the sample rate (cos carrier)
+2) 2nd signal: modulated with frequency = 3/12 of the sample rate (cos carrier)
+3) 3rd signal: modulated with frequency = 3/12 of the sample rate (sin carrier)
+
+## Demodulator
+Synchronous (Coherent) Demodulator with generated local carrier
+
 ## Normal Demodulation
 
 ![My Image](figures/1st%20Demodulated.jpg)
