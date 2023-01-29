@@ -40,3 +40,14 @@ Synchronous (Coherent) Demodulator with generated local carrier
 ![My Image](figures/First%20Signal%20Phase%20Shift%2090.jpg)
 ![My Image](figures/2nd%20Demodulated%20Phase%20Shift%2090.jpg)
 ![My Image](figures/3rd%20Demodulated%20Phase%20Shift%2090.jpg)
+
+
+
+#### Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/waleedhesham446"><img src="https://avatars.githubusercontent.com/u/72695729?v=4" width="150px;" alt=""/><br /><sub><b>Walid Hesham</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MohamedWw"><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br /></td>
+     
+  </tr>
+ </table>
